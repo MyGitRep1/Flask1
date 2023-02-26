@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="app.views.rest_framework" />
+          <option value="app.serializers.rest_framework" />
+          <option value="RestFrameWork.library.library.urls.app" />
+          <option value="RestFrameWork.library.app.views.*" />
+          <option value="library.library.urls.app" />
+          <option value="library.library.urls.drf_yasg" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
