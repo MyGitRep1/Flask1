@@ -20,3 +20,5 @@ def process_after_request(response):
     if hasattr(g, "start_time"):
         response.headers["process-time"] = time() - g.start_time
     return response
+
+
